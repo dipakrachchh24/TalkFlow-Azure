@@ -22,7 +22,7 @@ To set up and deploy TalkFlow-Azure, you will need the following prerequisites:
 ## Getting Started
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/TalkFlow-Azure.git
+    git clone https://github.com/dipakrachchh24/TalkFlow-Azure.git
     ```
 2. Set up your Azure account and configure the required services (e.g., Azure Bot Service, Azure Cognitive Services).
 3. Install the necessary dependencies using `pip install -r requirements.txt`.
